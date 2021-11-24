@@ -1,0 +1,19 @@
+{
+  "FilePath": "d:\\GitHub\\MinhaPrimeiraAplicacao_DOTNET_MVC5\\FN.Store\\FN.Store.Tests\\FN.Store.Tests.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}

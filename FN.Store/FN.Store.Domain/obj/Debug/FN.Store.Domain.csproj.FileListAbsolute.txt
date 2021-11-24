@@ -1,0 +1,5 @@
+D:\FN.Store\FN.Store.Domain\bin\Debug\FN.Store.Domain.dll
+D:\FN.Store\FN.Store.Domain\bin\Debug\FN.Store.Domain.pdb
+D:\FN.Store\FN.Store.Domain\obj\Debug\FN.Store.Domain.csproj.CoreCompileInputs.cache
+D:\FN.Store\FN.Store.Domain\obj\Debug\FN.Store.Domain.dll
+D:\FN.Store\FN.Store.Domain\obj\Debug\FN.Store.Domain.pdb

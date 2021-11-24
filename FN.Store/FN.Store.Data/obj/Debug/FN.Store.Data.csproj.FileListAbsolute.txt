@@ -1,0 +1,17 @@
+D:\FN.Store\FN.Store.Data\bin\Debug\FN.Store.Data.dll.config
+D:\FN.Store\FN.Store.Data\bin\Debug\FN.Store.Data.dll
+D:\FN.Store\FN.Store.Data\bin\Debug\FN.Store.Data.pdb
+D:\FN.Store\FN.Store.Data\bin\Debug\EntityFramework.dll
+D:\FN.Store\FN.Store.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\FN.Store\FN.Store.Data\bin\Debug\FN.Store.Domain.dll
+D:\FN.Store\FN.Store.Data\bin\Debug\FN.Store.Domain.pdb
+D:\FN.Store\FN.Store.Data\bin\Debug\EntityFramework.xml
+D:\FN.Store\FN.Store.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\FN.Store\FN.Store.Data\obj\Debug\FN.Store.Data.csproj.AssemblyReference.cache
+D:\FN.Store\FN.Store.Data\obj\Debug\FN.Store.Data.csproj.CoreCompileInputs.cache
+D:\FN.Store\FN.Store.Data\obj\Debug\FN.Store.Data.dll
+D:\FN.Store\FN.Store.Data\obj\Debug\FN.Store.Data.pdb
+D:\FN.Store\FN.Store.Data\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\FN.Store\FN.Store.Data\bin\Debug\System.Security.AccessControl.dll
+D:\FN.Store\FN.Store.Data\bin\Debug\System.Security.Permissions.dll
+D:\FN.Store\FN.Store.Data\bin\Debug\System.Security.Principal.Windows.dll
